@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8481ecf6-c7e7-419d-aa43-fca006421929" name="Changes" comment="stable">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyStepdefsForJetBrains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyStepdefsForJetBrains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitionForMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitionForMultiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefintions/testRunner/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefintions/testRunner/RunCucumberTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8481ecf6-c7e7-419d-aa43-fca006421929" name="Changes" comment="stable" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +38,16 @@
     </option>
   </component>
   <component name="ProjectId" id="2JCGz0pSRl1ZIL0rz2YgZjvhLzm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -178,7 +177,7 @@
       <workItem from="1671579494623" duration="665000" />
       <workItem from="1671580172875" duration="103000" />
       <workItem from="1671580491501" duration="2143000" />
-      <workItem from="1671582650898" duration="1583000" />
+      <workItem from="1671582650898" duration="2264000" />
     </task>
     <task id="LOCAL-00001" summary="stable">
       <created>1671580658087</created>
@@ -194,6 +193,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="stable" />
     <option name="LAST_COMMIT_MESSAGE" value="stable" />
   </component>
