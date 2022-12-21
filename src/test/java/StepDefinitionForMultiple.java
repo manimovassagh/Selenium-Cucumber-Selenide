@@ -11,9 +11,9 @@ public class StepDefinitionForMultiple {
 
 
 
-    @Given("I give multiple {string}")
-    public void i_give_multiple(String string) {
-        System.out.println(string);
+    @Given("I give multiple names {string}")
+    public void i_give_multiple_names(String name) {
+      log.info(name);
     }
 
     @When("Start the Test")
